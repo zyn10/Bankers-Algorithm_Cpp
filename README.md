@@ -1,5 +1,6 @@
-# Bankers-Algorithm_Cpp
-<h1>Source Screenshots</h1>
+Bankers Algorithm
+<br><br>
+<h2>Source Screenshots</h2>
 <br>
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/95617382/184543928-89dce92a-b5de-42fc-902f-03ea1db3a21d.png">
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/95617382/184543934-14b8d32d-024d-4ddc-930e-c44f193629c9.png">
